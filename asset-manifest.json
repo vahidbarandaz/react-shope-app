@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-shope-app/static/css/main.52070196.css",
+    "main.js": "/react-shope-app/static/js/main.3d135639.js",
+    "static/media/services-bg.jpg": "/react-shope-app/static/media/services-bg.0694ee782858ad7eaf26.jpg",
+    "static/media/slide_02.jpg": "/react-shope-app/static/media/slide_02.90bff63a314297df63b0.jpg",
+    "static/media/slide_01.jpg": "/react-shope-app/static/media/slide_01.8d328b04b2dedef54a9a.jpg",
+    "static/media/slide_03.jpg": "/react-shope-app/static/media/slide_03.cd56ad036f13ccf704c6.jpg",
+    "static/media/contact-heading.jpg": "/react-shope-app/static/media/contact-heading.f120d8c95c2e368fae06.jpg",
+    "static/media/feature-image.jpg": "/react-shope-app/static/media/feature-image.7e9bc60c83780869e1ca.jpg",
+    "static/media/about-heading.jpg": "/react-shope-app/static/media/about-heading.7f277794e33f6069448c.jpg",
+    "static/media/team_05.jpg": "/react-shope-app/static/media/team_05.cc6d2e820a24c9055815.jpg",
+    "static/media/team_04.jpg": "/react-shope-app/static/media/team_04.142e168087101cd8c840.jpg",
+    "static/media/team_06.jpg": "/react-shope-app/static/media/team_06.bf4dc894968e4d34edee.jpg",
+    "static/media/team_02.jpg": "/react-shope-app/static/media/team_02.84809c702bfb2328e16e.jpg",
+    "static/media/team_01.jpg": "/react-shope-app/static/media/team_01.82593648f22f8e1c9976.jpg",
+    "static/media/team_03.jpg": "/react-shope-app/static/media/team_03.4f46be020a9f975d0e66.jpg",
+    "index.html": "/react-shope-app/index.html",
+    "static/media/Wave.svg": "/react-shope-app/static/media/Wave.e49a48b736cde0638002.svg",
+    "main.52070196.css.map": "/react-shope-app/static/css/main.52070196.css.map",
+    "main.3d135639.js.map": "/react-shope-app/static/js/main.3d135639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52070196.css",
+    "static/js/main.3d135639.js"
+  ]
+}
