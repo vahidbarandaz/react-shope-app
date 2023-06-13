@@ -1,0 +1,8 @@
+form.pay-form {
+    margin-top: 4em;
+}
+a.btn.btn-primary.btc.mt-3.payment {
+    margin: auto;
+    display: block;
+    padding: 1em;
+}
